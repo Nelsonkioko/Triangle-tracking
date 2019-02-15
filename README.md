@@ -14,6 +14,7 @@ This is is a website for checking Triangles
 ## Technologies Used
 HTML
 CSS
+javascript
 ## Support and contact details
 Feel free to contact me incase of anything ;)
  #0700490623
