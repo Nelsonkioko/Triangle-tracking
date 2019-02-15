@@ -10,10 +10,12 @@ height: 20%;
 float: left;
 }
 .sides  {
-  
   padding-bottom:4%;
 }
 button  {
   width:5em;
   height:1.5em;
+}
+.form  {
+  padding-top: 4px;
 }
