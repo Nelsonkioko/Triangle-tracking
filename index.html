@@ -7,7 +7,9 @@
     <title>Triangle Tracker</title>
   </head>
   <body>
-
+    <div class="header">
+      <h1>Triangle tracker</h1><br><br><br><br>
+    </div>
     <fieldset class="field">
       <legend>Triangle Tracker</legend>
     <form class="form" action="index.html" method="post">
@@ -18,7 +20,8 @@
         <input type="number" name="side2" placeholder="please enter side 2" id="side2"><br><br>
         Third side: &nbsp<br>
         <input type="number" name="side3" placeholder="please enter side 3" id="side3"><br><br>
-        <button type="button" name="submit" value="submit" onclick="">submit</button>
+        <button type="button" name="submit" value="submit" onclick="triangletrack()">submit</button>
+        <input type="reset" name="reset" value="clear fields">
       </div>
     </form>
   </fieldset>

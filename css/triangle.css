@@ -9,10 +9,14 @@ width: 50%;
 float: left;
 }
 .sides  {
-  padding-top: 4%;
+  padding-top: 2%;
   padding-bottom:4%;
 }
 button  {
   width:5em;
   height:1.5em;
+}
+.header{
+  background-image: url("images/triangle4.jpg");
+  background-size: cover;
 }
