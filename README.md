@@ -15,6 +15,7 @@ This is is a website for checking Triangles
 HTML
 CSS
 ## Support and contact details
+Feel free to contact me incase of anything ;)
  #0700490623
  #0777770089
 
