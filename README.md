@@ -1,7 +1,7 @@
 #### portfolio
 #### this is my portfolio, 15/2/2019
 #### By Nelson Kioko
-#### Neledi ltd s
+#### Neledi ltd
 ## Description
 This is is a website for checking Triangles
 * First it adds two sides and checks if the two sides are less than or equal to the third side.if it evaluates to true then it otputs that the triangle cannot be formed.
@@ -15,8 +15,8 @@ This is is a website for checking Triangles
 HTML
 CSS
 ## Support and contact details
- 0700490623
- 0777770089
+ #0700490623
+ #0777770089
 
 ### License
 MIT License
