@@ -4,11 +4,13 @@
 #### Neledi ltd s
 ## Description
 This is is a website for checking Triangles
+* First it adds two sides and checks if the two sides are less than or equal to the third side.if it evaluates to true then it otputs that the triangle cannot be formed.
+* It then checks if all sides are equal and if they are equal it outputs that the triangle is equilateral.
+* It also checks if two sides are exactly equal and if they are it outputs that it is an isosceles triangle.
+* finally it checks if the sum of any two sides of the triangle are greater than the third side and none of the sides are equal and it ou
 ## Setup/Installation Requirements
 * atom
 * Chrome
-
-
 ## Technologies Used
 HTML
 CSS
