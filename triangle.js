@@ -17,7 +17,6 @@ function triangletrack()  {
     alert("This is a Scalene triangle");
   }
     else {
-      alert("hatukuelewi ndugu");
+      alert("hatukuelewi ndugu"); 
     }
 }
- 
