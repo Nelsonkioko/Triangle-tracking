@@ -1,5 +1,5 @@
-#### portfolio
-#### this is my portfolio, 15/2/2019
+#### Triangle Tracking
+#### This is my triangle tracking project, 15/2/2019
 #### By Nelson Kioko
 #### Neledi ltd
 ## Description
