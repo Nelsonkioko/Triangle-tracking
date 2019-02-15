@@ -1,0 +1,17 @@
+body  {
+  background-image: url("images/triangle2.jpg");
+  background-size: cover;
+}
+.field {
+padding-left: 10%;
+padding-top: 10%;
+
+width: 50%;
+}
+.sides  {
+  padding-top: 4%;
+  padding-bottom:4%;
+}
+button  {
+  width:10px;
+}
