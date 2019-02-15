@@ -5,7 +5,6 @@ body  {
 .field {
 padding-left: 10%;
 padding-top: 10%;
-
 width: 50%;
 }
 .sides  {
@@ -13,5 +12,6 @@ width: 50%;
   padding-bottom:4%;
 }
 button  {
-  width:10px;
+  width:5em;
+  height:1.5em;
 }
