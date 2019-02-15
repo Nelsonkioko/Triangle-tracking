@@ -6,6 +6,7 @@ body  {
 padding-left: 10%;
 padding-top: 10%;
 width: 50%;
+float: left;
 }
 .sides  {
   padding-top: 4%;

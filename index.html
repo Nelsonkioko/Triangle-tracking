@@ -7,17 +7,20 @@
     <title>Triangle Tracker</title>
   </head>
   <body>
+
     <fieldset class="field">
       <legend>Triangle Tracker</legend>
-  <div class = "sides">
-    First side:&nbsp<br>
-    <input type="text" name="side1" placeholder="please enter side 1"><br><br>
-    Second side: &nbsp<br>
-    <input type="text" name="side2" placeholder="please enter side 2"><br><br>
-    Third side: &nbsp<br>
-    <input type="text" name="side3" placeholder="please enter side 3"><br><br>
-    <button type="button" name="submit" value="submit">submit</button>
-    </div>
+    <form class="form" action="index.html" method="post">
+      <div class = "sides">
+        First side:&nbsp<br>
+        <input type="number" name="side1" placeholder="please enter side 1" id="side1"><br><br>
+        Second side: &nbsp<br>
+        <input type="number" name="side2" placeholder="please enter side 2" id="side2"><br><br>
+        Third side: &nbsp<br>
+        <input type="number" name="side3" placeholder="please enter side 3" id="side3"><br><br>
+        <button type="button" name="submit" value="submit" onclick="">submit</button>
+      </div>
+    </form>
   </fieldset>
   </body>
 </html>
